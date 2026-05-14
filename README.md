@@ -31,7 +31,7 @@ A Progressive Web App (PWA) designed to help patients manage and track their med
 
 
 ## Course
-Human-Computer Interaction — [Your University Name]
+Human-Computer Interaction
 
 ## License
 For academic use only.
