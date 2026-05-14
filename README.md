@@ -3,7 +3,7 @@
 A Progressive Web App (PWA) designed to help patients manage and track their medication intake.
 
 ## Live App
-[Open MediCure](https://your-netlify-url.netlify.app)
+[Open MediCure](https://adherence-app-medicure.netlify.app/)
 
 ## How to Install on Phone
 1. Open the live link in **Google Chrome**
